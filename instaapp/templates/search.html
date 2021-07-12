@@ -3,9 +3,9 @@
 <div class="container">
   <div class="row text-center">
     {% if profiles%}
-      <h2>Found {{ profiles|length }} user with searched term '{{message}}'</h2>
+      <h2>Found {{ profiles|length }} user with searched '{{message}}'</h2>
     {% else %}
-      <h2> Found 0 profiles for the search term {{message}}</h2>
+      <h2> Found 0 profiles for the search {{message}}</h2>
     {% endif %}
   </div>
 </div>
