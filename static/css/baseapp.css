@@ -1,16 +1,21 @@
 h1 {
-  color: rgb(0, 174, 255);
+  color: rgb(123, 255, 0);
   font-style: italic;
 }
 #bar{
   background-image:url(/static/css/kristopher-roller-PC_lbSSxCZE-unsplash.jpg) ;
-  color: azure;
+  color: rgb(89, 212, 212);
+  forced-color-adjust:1px;
   background-repeat: no-repeat;
   background-size: cover;
   height: 150%;
 }
 .container{
-  background-color: blanchedalmond;
+  background-image: url(/static/css/pawel-czerwinski-0ZFgxlNpbJM-unsplash.jpg);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
   font-style: italic;
+  color: aliceblue;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 }
