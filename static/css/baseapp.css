@@ -3,8 +3,14 @@ h1 {
   font-style: italic;
 }
 #bar{
-  background-color: aquamarine;
+  background-image:url(/static/css/kristopher-roller-PC_lbSSxCZE-unsplash.jpg) ;
+  color: azure;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150%;
 }
 .container{
   background-color: blanchedalmond;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 }
