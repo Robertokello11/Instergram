@@ -18,6 +18,7 @@ h1 {
   font-style: italic;
   color: rgba(240, 248, 255, 0.411);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+  
 }
 #image{
   color: aqua;
@@ -32,19 +33,61 @@ p{
 }
 .row{
   color: rgba(255, 0, 0, 0.719);
+  text-align: center;
 }
 .navbar{
   background-color: #3fe075;
   margin:0%;
   padding: 0%;
   /* border: 5px solid rgb(0, 0, 0); */
-  display: inline-block;
   text-align: center;
   
-
-  
+}
+.navbar ul li {
+  margin: 0;
+  padding: 0;
+  padding-top: 2%;
+  color: #3fe075;
 }
 
-.title1{
-  font-family: 'sans-serif';
+/* .navbar ul li {
+  list-style: none;
+margin: 1%;
+  font-size: 2em;
+display:inline-block;
+} */
+
+.navbar ul li a {
+  text-decoration: none;
+  float: right;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #E6E6E6;
+
 }
+
+/* .navbar {
+  overflow: hidden;
+  background-color: #214569;
+  position: fixed;
+  top: 0;
+  width: 100%;
+} */
+
+.navbar ul li:hover {
+  background-color: #8C9DBF;
+}
+
+
+/* .navbar p {
+  top: 0;
+  float: right;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 1.5em;
+
+} */
+.navbar-brand{
+  text-align: center;
+  font-style: italic;
+}
+
