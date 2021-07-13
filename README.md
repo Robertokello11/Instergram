@@ -35,8 +35,7 @@ This is a Django application that duplicates the intagram app where a user can v
 Open the application on your browser 127.0.0.1:8000.
 
 #### Live Link
-- https://photosg-gallery01.herokuapp.com/
-
+- 
 #### Technology used
 -Python3.8
 
