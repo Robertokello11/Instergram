@@ -16,7 +16,7 @@ h1 {
   background-repeat: no-repeat;
   background-size: cover;
   font-style: italic;
-  color: aliceblue;
+  color: rgba(240, 248, 255, 0.411);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 }
 #image{
@@ -29,4 +29,7 @@ p{
 .navbar{
   background-color: blue;
   color: aqua;
+}
+.row{
+  color: rgba(0, 255, 64, 0.404);
 }
