@@ -1,5 +1,5 @@
 h1 {
-  color: rgb(123, 255, 0);
+  color: rgba(123, 255, 0, 0.822);
   font-style: italic;
 }
 #bar{
@@ -18,4 +18,15 @@ h1 {
   font-style: italic;
   color: aliceblue;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+}
+#image{
+  color: aqua;
+  font-style: italic;
+}
+p{
+  color: #000;
+}
+.navbar{
+  background-color: blue;
+  color: aqua;
 }
