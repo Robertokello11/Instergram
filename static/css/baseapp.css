@@ -4,14 +4,14 @@ h1 {
 }
 #bar{
   background-image:url(/static/css/kristopher-roller-PC_lbSSxCZE-unsplash.jpg) ;
-  color: rgb(89, 212, 212);
+  color: rgb(163, 89, 212);
   forced-color-adjust:1px;
   background-repeat: no-repeat;
   background-size: cover;
   height: 150%;
 }
 .container{
-  background-image: url(/static/css/h-heyerlein-BsWgMBfb208-unsplash.jpg);
+  background-image: url(/static/css/pawel-czerwinski-0ZFgxlNpbJM-unsplash.jpg);
   
   background-repeat: no-repeat;
   background-size: cover;
@@ -31,5 +31,20 @@ p{
   color: aqua;
 }
 .row{
-  color: rgba(0, 255, 64, 0.404);
+  color: rgba(255, 0, 0, 0.719);
+}
+.navbar{
+  background-color: #3fe075;
+  margin:0%;
+  padding: 0%;
+  /* border: 5px solid rgb(0, 0, 0); */
+  display: inline-block;
+  text-align: center;
+  
+
+  
+}
+
+.title1{
+  font-family: 'sans-serif';
 }
